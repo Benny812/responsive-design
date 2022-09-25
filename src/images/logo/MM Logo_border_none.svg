@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.46667 8.4666667"
+   version="1.1"
+   id="svg3830"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="MM Logo_border_none.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3832"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="24.886869"
+     inkscape:cx="25.977555"
+     inkscape:cy="19.488189"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showborder="true" />
+  <defs
+     id="defs3827">
+    <clipPath
+       id="clipPath2383">
+      <rect
+         x="84.733002"
+         y="126.92"
+         width="12.884"
+         height="12.884"
+         rx="0.82805002"
+         ry="0.82805002"
+         fill="none"
+         stroke="#ff0000"
+         stroke-width="0.41403"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Lager 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0.6885457,0,0,0.86598025,-58.544975,-111.25248)"
+       clip-path="url(#clipPath2383)"
+       image-rendering="auto"
+       id="g23"
+       style="fill:#ff0000;stroke:none">
+      <title
+         id="title7">blackRedLogo</title>
+      <polygon
+         transform="matrix(0.2644,0,0,0.26458,85.027,128.47)"
+         points="0,13.934 4.618,18.552 13.935,9.235 23.252,18.552 23.253,18.551 23.255,18.552 32.572,9.235 41.889,18.552 46.507,13.934 32.573,0 32.572,0 23.253,9.318 13.935,0 13.934,0 "
+         fill="#ff0000"
+         data-name="logoMark &lt;PathItem&gt;"
+         id="polygon9"
+         style="stroke:none" />
+      <polygon
+         transform="matrix(0.2644,0,0,0.26458,85.027,128.47)"
+         points="0,13.934 4.618,18.552 13.935,9.235 23.252,18.552 23.253,18.551 23.255,18.552 32.572,9.235 41.889,18.552 46.507,13.934 32.573,0 32.572,0 23.253,9.318 13.935,0 13.934,0 "
+         fill="#000000"
+         data-name="logoMark &lt;PathItem&gt;"
+         id="polygon11"
+         style="stroke:none" />
+      <g
+         fill="#ff0000"
+         id="g21"
+         style="stroke:none">
+        <polygon
+           transform="matrix(0.2644,0,0,0.26458,85.027,128.43)"
+           points="13.936,18.552 9.319,23.17 23.253,37.104 23.254,37.104 37.188,23.17 32.57,18.552 23.253,27.869 "
+           data-name="logoMark &lt;PathItem&gt;"
+           id="polygon13"
+           style="stroke:none" />
+        <polygon
+           transform="matrix(0.2644,0,0,0.26458,85.027,128.43)"
+           points="13.936,18.552 9.319,23.17 23.253,37.104 23.254,37.104 37.188,23.17 32.57,18.552 23.253,27.869 "
+           data-name="logoMark &lt;PathItem&gt;"
+           id="polygon15"
+           style="stroke:none" />
+        <polygon
+           transform="matrix(0.2644,0,0,0.26458,85.027,128.43)"
+           points="13.936,18.552 9.319,23.17 23.253,37.104 23.254,37.104 37.188,23.17 32.57,18.552 23.253,27.869 "
+           data-name="logoMark &lt;PathItem&gt;"
+           id="polygon17"
+           style="stroke:none" />
+        <polygon
+           transform="matrix(0.2644,0,0,0.26458,85.027,128.43)"
+           points="13.936,18.552 9.319,23.17 23.253,37.104 23.254,37.104 37.188,23.17 32.57,18.552 23.253,27.869 "
+           data-name="logoMark &lt;PathItem&gt;"
+           id="polygon19"
+           style="stroke:none" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -6,7 +6,85 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Contact</title>
     <link rel="stylesheet" href="src/styles/designSystem.css" />
+    <link rel="stylesheet" href="src/styles/contact.css" />
   </head>
-  <body></body>
+  <body>
+    <div class="hero">
+      <div class="navbar container">
+        <div class="navbar__logo">
+          <img
+            src="src/images/logo/MM Logo_border_none.svg"
+            alt=""
+            class="navbar__logo--image"
+          />
+          <div class="navbar__logo--text">Start</div>
+        </div>
+        <div class="navbar__menu hidden">
+          <a href="index.html" class="navbar__menu--1">Home</a>
+          <a href="portfolio.html" class="navbar__menu--2">Portfolio</a>
+          <a href="services.html" class="navbar__menu--3">Services</a>
+          <a href="" class="navbar__menu--4">Contact</a>
+        </div>
+        <div class="navbar__icons">
+          <i class="bi bi-list"></i>
+          <i class="bi bi-x-lg hide"></i>
+        </div>
+      </div>
+    </div>
+    <div class="sectionOne container text-center">
+      <div class="common-title">Contact Us</div>
+      <div class="text">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
+        veritatis optio illum.
+      </div>
+    </div>
+    <div class="sectionTwo container grid">
+      <div class="sectionTwo__left">
+        <form action="" class="form">
+          <label for="name">Name</label>
+          <input placeholder="your name here" type="text" id="name" />
+
+          <label for="email">Email</label>
+          <input placeholder="your email here" type="text" id="email" />
+
+          <label for="message">Message</label>
+          <textarea
+            placeholder="your message here"
+            name=""
+            id="message"
+            cols="30"
+            rows="6"
+          ></textarea>
+
+          <button class="submit-btn gallery-button dark-btn" type="submit">
+            Submit
+          </button>
+        </form>
+      </div>
+
+      <div class="sectionTwo__right">
+        <img
+          class="sectionTwo__right responsive-image"
+          src="src/images/svg/contact/image916.png"
+          alt=""
+        />
+      </div>
+    </div>
+    <div class="footerWrapper">
+      <div class="footerLinks container">
+        <div class="footerLinks__socials">
+          <img src="src/images/svg/socials/Facebook Messenger.svg" alt="" />
+          <img src="src/images/svg/socials/Facebook.svg" alt="" />
+          <img src="src/images/svg/socials/Google.svg" alt="" />
+          <img src="src/images/svg/socials/Linkedin.svg" alt="" />
+          <img src="src/images/svg/socials/Twitch.svg" alt="" />
+          <img src="src/images/svg/socials/Twitter.svg" alt="" />
+        </div>
+        <div class="footerLinks__copyright text-white text-center">
+          © Start, 2022.All rights reserved.
+        </div>
+      </div>
+    </div>
+  </body>
   <script src="src/main.js"></script>
 </html>
